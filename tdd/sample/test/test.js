@@ -13,7 +13,6 @@
 // limitations under the License.
 const expect = require('chai').expect
 const assert = require('assert')
-const Utils = require('../src/utils')
 
 describe('金丝雀测试', function() {
   it('canary金丝雀测试通过了吗？', function() {
